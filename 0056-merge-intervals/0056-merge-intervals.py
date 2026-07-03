@@ -8,7 +8,7 @@ class Solution:
         [start,end]=intervals[0]
         for i in range(0,n):
             [newstart,newend]=intervals[i]
-            if end>=newstart:
+            if newstart<=end:
                 end=max(end,newend)
             else:
                 res.append([start,end])
