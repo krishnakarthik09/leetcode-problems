@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 ## Divide and Conquer
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0013-roman-to-integer) |
 ## Sorting
 |  |
 | ------- |
@@ -35,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
