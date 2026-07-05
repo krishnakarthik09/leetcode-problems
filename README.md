@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0011-container-with-most-water) |
+| [0048-rotate-image](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0048-rotate-image) |
 ## Sorting
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 ## String
