@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0054-spiral-matrix) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
