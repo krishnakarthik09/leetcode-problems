@@ -5,7 +5,7 @@ class Solution:
         start=0
         i=0
         j=0
-        while i <  n:
+        while i <  n and j<=m:
             if haystack[i]==needle[j]:
                 i+=1
                 j+=1
