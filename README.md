@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0048-rotate-image) |
+| [0268-missing-number](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -73,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -99,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
