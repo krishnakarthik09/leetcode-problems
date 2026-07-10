@@ -11,7 +11,7 @@ class Solution:
                 j+=1
                 count+=1
 
-            elif j<n and nums[j]!=nums[i]:
+            if j<n and nums[j]!=nums[i]:
                 nums[i+1],nums[j]=nums[j],nums[i+1]
                 i+=1
                 j+=1
