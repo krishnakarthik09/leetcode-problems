@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
