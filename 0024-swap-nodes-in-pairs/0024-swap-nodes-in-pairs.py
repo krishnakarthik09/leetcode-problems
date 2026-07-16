@@ -9,10 +9,6 @@ class Solution:
             return head
         prev=head
         temp=prev.next
-        if temp.next is None:
-            temp.next=prev
-            prev.next=None
-            return temp
         new=head.next
         while temp is not None and temp.next is not None:
             front=temp.next
