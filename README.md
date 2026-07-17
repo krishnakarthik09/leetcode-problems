@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0704-binary-search) |
+| [1480-running-sum-of-1d-array](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/krishnakarthik09/leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
@@ -176,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0206-reverse-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
