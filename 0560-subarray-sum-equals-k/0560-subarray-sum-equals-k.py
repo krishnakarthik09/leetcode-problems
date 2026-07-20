@@ -8,10 +8,6 @@ class Solution:
             curr+=nums[i]
             if curr-k in seen:
                 count+=seen[curr-k]
-            if curr in seen:
-                seen[curr]+=1
-            else:
-                seen[curr]=1
-        
+            seen[curr]=seen.get(curr,0)+1
         return count
         
