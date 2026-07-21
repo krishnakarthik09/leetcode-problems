@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0904-fruit-into-baskets) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krishnakarthik09/leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Divide and Conquer
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0344-reverse-string) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0268-missing-number) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -198,4 +201,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [1480-running-sum-of-1d-array](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
