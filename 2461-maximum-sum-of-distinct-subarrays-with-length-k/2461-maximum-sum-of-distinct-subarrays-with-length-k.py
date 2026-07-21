@@ -12,7 +12,7 @@ class Solution:
                 left+=1
             curr+=nums[right]
             my_set.add(nums[right])
-            if len(my_set)==k:
+            if right-left+1==k:
                 max_sum=max(max_sum,curr)
                 my_set.remove(nums[left])
                 curr-=nums[left]
