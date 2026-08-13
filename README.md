@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0342-power-of-four) |
 ## Sorting
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
