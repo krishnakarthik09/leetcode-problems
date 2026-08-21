@@ -5,15 +5,11 @@ class Solution:
             return intervals
         res=[]
         intervals.sort()
-        [start,end]=intervals[0]
         for i in range(0,n):
-            [newstart,newend]=intervals[i]
-            if newstart<=end:
-                end=max(end,newend)
+            if len(res)!=0 and intervals[i][0]<= res[len(res)-1][1]:
+                res[len(res)-1][1]=max(intervals[i][1],res[len(res)-1][1])
             else:
-                res.append([start,end])
-                [start,end]=[newstart,newend]
-        res.append([start,end])
+                res.append(intervals[i])
         return res
 
 
