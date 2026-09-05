@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/krishnakarthik09/leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
