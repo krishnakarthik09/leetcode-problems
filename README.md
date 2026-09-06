@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/krishnakarthik09/leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/krishnakarthik09/leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krishnakarthik09/leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3875-construct-uniform-parity-array-i](https://github.com/krishnakarthik09/leetcode-problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/krishnakarthik09/leetcode-problems/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0342-power-of-four) |
+| [3875-construct-uniform-parity-array-i](https://github.com/krishnakarthik09/leetcode-problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
 | ------- |
