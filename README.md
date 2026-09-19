@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0342-power-of-four) |
+| [1903-largest-odd-number-in-string](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
 | [3875-construct-uniform-parity-array-i](https://github.com/krishnakarthik09/leetcode-problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0344-reverse-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1903-largest-odd-number-in-string](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
 ## Counting
 |  |
 | ------- |
