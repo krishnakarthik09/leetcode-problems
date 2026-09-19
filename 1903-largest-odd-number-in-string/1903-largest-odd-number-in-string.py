@@ -8,8 +8,6 @@ class Solution:
                 break
         if i==0 and int(num[i]) % 2 ==0:
             return res
-        for j in range(i+1):
-            res+=num[j]
-        return res
+        return num[:i+1]
 
         
