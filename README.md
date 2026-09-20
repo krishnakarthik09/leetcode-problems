@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0389-find-the-difference) |
 ## Matrix
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0796-rotate-string](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0389-find-the-difference) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/krishnakarthik09/leetcode-problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Sliding Window
