@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
@@ -340,10 +341,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0155-min-stack) |
+| [1021-remove-outermost-parentheses](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 ## Design
 |  |
 | ------- |
