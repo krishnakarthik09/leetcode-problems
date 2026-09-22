@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0705-design-hashset) |
 | [0713-subarray-product-less-than-k](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
+| [0705-design-hashset](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0705-design-hashset) |
 | [0904-fruit-into-baskets](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0328-odd-even-linked-list) |
+| [0705-design-hashset](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0705-design-hashset) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Quicksort
 |  |
@@ -361,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
+| [0705-design-hashset](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0705-design-hashset) |
 ## Enumeration
 |  |
 | ------- |
