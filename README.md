@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0410-split-array-largest-sum) |
+| [0647-palindromic-substrings](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0647-palindromic-substrings) |
 ## Math
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0389-find-the-difference) |
+| [0647-palindromic-substrings](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0344-reverse-string) |
+| [0647-palindromic-substrings](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
