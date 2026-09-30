@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1901-find-a-peak-element-ii) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/krishnakarthik09/leetcode-problems/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/krishnakarthik09/leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/krishnakarthik09/leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2951-find-the-peaks](https://github.com/krishnakarthik09/leetcode-problems/tree/master/2951-find-the-peaks) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/krishnakarthik09/leetcode-problems/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3498-reverse-degree-of-a-string](https://github.com/krishnakarthik09/leetcode-problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0796-rotate-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/krishnakarthik09/leetcode-problems/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Bit Manipulation
 |  |
 | ------- |
