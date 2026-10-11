@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0342-power-of-four) |
+| [0633-sum-of-square-numbers](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
 | [3875-construct-uniform-parity-array-i](https://github.com/krishnakarthik09/leetcode-problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0493-reverse-pairs) |
+| [0633-sum-of-square-numbers](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
