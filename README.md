@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0633-sum-of-square-numbers](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1922-count-good-numbers) |
 | [2409-count-days-spent-together](https://github.com/krishnakarthik09/leetcode-problems/tree/master/2409-count-days-spent-together) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/krishnakarthik09/leetcode-problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/krishnakarthik09/leetcode-problems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0342-power-of-four) |
+| [1922-count-good-numbers](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1922-count-good-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
