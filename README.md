@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0705-design-hashset) |
 | [0713-subarray-product-less-than-k](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1004-max-consecutive-ones-iii](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
