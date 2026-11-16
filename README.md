@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/krishnakarthik09/leetcode-problems/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/krishnakarthik09/leetcode-problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/krishnakarthik09/leetcode-problems/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/krishnakarthik09/leetcode-problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0059-spiral-matrix-ii) |
 | [0735-asteroid-collision](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0735-asteroid-collision) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/krishnakarthik09/leetcode-problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/krishnakarthik09/leetcode-problems/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
 |  |
