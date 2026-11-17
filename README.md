@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0647-palindromic-substrings) |
 | [0907-sum-of-subarray-minimums](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0907-sum-of-subarray-minimums) |
 ## Math
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0389-find-the-difference) |
+| [0435-non-overlapping-intervals](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0860-lemonade-change) |
