@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0633-sum-of-square-numbers](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0633-sum-of-square-numbers) |
+| [1352-product-of-the-last-k-numbers](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1922-count-good-numbers) |
 | [2409-count-days-spent-together](https://github.com/krishnakarthik09/leetcode-problems/tree/master/2409-count-days-spent-together) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [3364-minimum-positive-sum-subarray](https://github.com/krishnakarthik09/leetcode-problems/tree/master/3364-minimum-positive-sum-subarray) |
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0460-lfu-cache) |
 | [0705-design-hashset](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0705-design-hashset) |
 | [0901-online-stock-span](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1352-product-of-the-last-k-numbers) |
 ## Enumeration
 |  |
 | ------- |
@@ -594,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1352-product-of-the-last-k-numbers) |
 ## Doubly-Linked List
 |  |
 | ------- |
