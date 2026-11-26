@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/krishnakarthik09/leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/krishnakarthik09/leetcode-problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/krishnakarthik09/leetcode-problems/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/krishnakarthik09/leetcode-problems/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/krishnakarthik09/leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/krishnakarthik09/leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/krishnakarthik09/leetcode-problems/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/krishnakarthik09/leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/krishnakarthik09/leetcode-problems/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/krishnakarthik09/leetcode-problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Matrix
 |  |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/krishnakarthik09/leetcode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/krishnakarthik09/leetcode-problems/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Greedy
 |  |
 | ------- |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/krishnakarthik09/leetcode-problems/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/krishnakarthik09/leetcode-problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/krishnakarthik09/leetcode-problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Counting
@@ -439,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/krishnakarthik09/leetcode-problems/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3364-minimum-positive-sum-subarray](https://github.com/krishnakarthik09/leetcode-problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3904-smallest-stable-index-ii](https://github.com/krishnakarthik09/leetcode-problems/tree/master/3904-smallest-stable-index-ii) |
 ## Rolling Hash
@@ -559,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0239-sliding-window-maximum) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/krishnakarthik09/leetcode-problems/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Monotonic Queue
 |  |
 | ------- |
