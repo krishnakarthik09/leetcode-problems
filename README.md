@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0907-sum-of-subarray-minimums) |
 ## Math
 |  |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0907-sum-of-subarray-minimums) |
@@ -528,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/krishnakarthik09/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/krishnakarthik09/leetcode-problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
